@@ -77,7 +77,7 @@ def RupaRupa():
 	
 	if hitung < 9:
 		print
-		print(M+'Número invalido !')
+		print(M+'Número Invalido')
 		sys.exit()
 	
 	for x in range(jumlah):
