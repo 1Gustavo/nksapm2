@@ -6,6 +6,7 @@
 
  
 </details>
+````
 ```
 DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
