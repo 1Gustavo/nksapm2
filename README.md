@@ -5,6 +5,7 @@
 DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
 ```
+----------------
 #INSTALAÇÃO 
 ```
 $ pkg install git
