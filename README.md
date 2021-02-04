@@ -1,5 +1,5 @@
 ##    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  SPAM WA BY NUKE MODS
-<img src="https://files.oyebesmartest.com/uploads/preview/anonymous-mask-man-wallpaper-hd-(46)zzkc.jpg" width="230" height="230"/>
+<img src="https://pbs.twimg.com/profile_images/1052928167562936320/dERMxHms.jpg" width="230" height="230"/>
 
 ```
 DESENVOLVIDO POR NUKE MODS
