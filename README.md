@@ -4,7 +4,7 @@
 ```
 DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
-```
+````
 ----------------
 #INSTALAÇÃO 
 
@@ -22,13 +22,13 @@ https://Wa.me/+5519991718371
 
 GRUPO
 https://chat.whatsapp.com/LnSM78H1Io28z96hHbYDmd
-```
 
- CARACTERÍSTICAS  
+```
+#CARACTERÍSTICAS  
 
 | D4RK BOT      |                   Característica |
 | :-----------: | :------------------------------: |
 |       ✅       |INTEIRO EM PORTUGUES             |
 |       ✅       |100% SEGURO                            |
 |       ✅       | BY  (NUKE MODS)                 |
-```
+
