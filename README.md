@@ -1,4 +1,13 @@
 ##    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  SPAM WA BY NUKE MODS
+<img src="https://www.clangsm.com.br/profile/358556-marquinhos-saraiva/
+" width="230" height="230"/>
+</p>
+<br>
+
+
+ 
+</details>
+
 ```
 DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
