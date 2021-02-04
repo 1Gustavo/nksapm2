@@ -225,8 +225,8 @@ def Spam():
 	print
 	print
 	print(C+'MENU'+W+' :')
-	print(C+'\t['+W+'1'+C+']'+W+' SPAM TOKOPEDIA'+C+' ( '+H+'ATIVO'+C+' )')
-	print(C+'\t['+W+'2'+C+']'+W+' SPAM RUPA-RUPA'+C+' ( '+M+'NÃO ATIVO'+C+' )')
+	print(C+'\t['+W+'1'+C+']'+W+' SPAM TOKOPEDIA'+C+' ( '+H+'Ativo'+C+' )')
+	print(C+'\t['+W+'2'+C+']'+W+' SPAM RUPA-RUPA'+C+' ( '+M+'Nao ativo '+C+' )')
 	print
 	
 	try:
