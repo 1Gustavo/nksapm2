@@ -1,5 +1,5 @@
 ##    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  SPAM WA BY NUKE MODS
-<img src="https://media-giphy-com.cdn.ampproject.org/ii/w820/s/media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/897763649209834807/DFFC633C9278DBCA10775E8BC4C7338FF6D45B77//media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
 
 ```
 DESENVOLVIDO POR NUKE MODS
