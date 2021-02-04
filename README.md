@@ -4,7 +4,7 @@ DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
 ```
 # INSTALAÇÃO 
-
+```
 $ pkg install git
 $ pkg install python2
 $ pip2 install requests
