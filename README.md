@@ -17,4 +17,3 @@ https://Wa.me/+5519991718371
 ```
 GRUPO
 https://chat.whatsapp.com/LnSM78H1Io28z96hHbYDmd
-```
