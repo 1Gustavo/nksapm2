@@ -38,7 +38,8 @@ def Banner():
  █▒█▒█ █░▒█ █▀▄░ █▀▀▀   ▀▀▀▄▄ █▄▄█ █▄▄█ █▒█▒█
  █░░▀█ ▀▄▄▀ █░▒█ █▄▄▄   █▄▄▄█ █░░░ █░▒█ █░░▒█
 
-                       '''+W+'Creator : ./NUKEMODS W\n\t\t   Youtube NUKEMODS W')
+                       
+'''+W+'Creator : ./NUKEMODS W\n\t\t   Youtube NUKEMODS W')
                    
 def RupaRupa():
 	print
