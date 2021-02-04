@@ -231,7 +231,7 @@ def Spam():
 	
 	try:
 		
-		pilih = input(C+'PILIH MENU'+W+' \xE2\x9E\xA4 '+C+'')
+		pilih = input(C+'ESCOLHA UM MENU 1 OU 2'+W+' \xE2\x9E\xA4 '+C+'')
 		if pilih == 1:
 			Tokped() 
 		elif pilih == 2:
