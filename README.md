@@ -1,4 +1,4 @@
-# SPAM WA BY NUKE MODS
+##    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  SPAM WA BY NUKE MODS
 ```
 DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
