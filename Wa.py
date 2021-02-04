@@ -68,7 +68,7 @@ def RupaRupa():
 	MesinTik(C+'\t SPAM RUPA RUPA')
 	MesinTik(W+'\t================')
 	print
-	number = raw_input(''+C+'DIGITE O NMR DO ALVO'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
+	number = raw_input(''+C+'DIGITE O NUMERO'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
 	jumlah = input(''+C+'QUANTIDADE DE SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
 	print
 	MesinTik_2(''+C+'-------------- '+W+'SPAM BY NUKE MODS INICIANDO '+C+' --------------')
