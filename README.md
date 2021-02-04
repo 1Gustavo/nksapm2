@@ -21,3 +21,10 @@ https://Wa.me/+5519991718371
 GRUPO
 https://chat.whatsapp.com/LnSM78H1Io28z96hHbYDmd
 ```
+## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+
+| D4RK BOT      |                   Característica        |
+| :-----------: | :------------------------------: |
+|       ✅       |INTEIRO EM PORTUGUES                  |
+|       ✅       |100% SEGURO                            |
+|       ✅       | BY  (NUKE MODS)                      |
