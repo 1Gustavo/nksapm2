@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Creator :  ./Sandi W
+# Creator :  ./NUKE MODS
 # Team : No Team
 # Never Mind
 
@@ -61,7 +61,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-'''+W+'Creator : ./NUKEMODS W\n\t\t   Youtube NUKEMODS W')
+'''+W+'Creator : ./NUKEMODS \n\t\t   Youtube NUKEMODS ')
                    
 def RupaRupa():
 	print
@@ -69,15 +69,15 @@ def RupaRupa():
 	MesinTik(W+'\t================')
 	print
 	number = raw_input(''+C+'INSIRA O NÚMERO DA ALVO'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
-	jumlah = input(''+C+'JUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
+	jumlah = input(''+C+'QUANTIDADE DE SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
 	print
-	MesinTik_2(''+C+'-------------- '+W+'Starting'+C+' --------------')
+	MesinTik_2(''+C+'-------------- '+W+'SPAM BY NUKE MODS INICIANDO '+C+' --------------')
 	print
 	hitung = len(number)
 	
 	if hitung < 9:
 		print
-		print(M+'Nomor Tidak Valid !')
+		print(M+'Número invalido !')
 		sys.exit()
 	
 	for x in range(jumlah):
