@@ -2,11 +2,10 @@
 <img src="https://media-giphy-com.cdn.ampproject.org/ii/w820/s/media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
 
 ```
-```
 DESENVOLVIDO POR NUKE MODS
 INTEIRO EM PORTUGUÊS 
 ```
-# INSTALAÇÃO 
+#INSTALAÇÃO 
 ```
 $ pkg install git
 $ pkg install python2
